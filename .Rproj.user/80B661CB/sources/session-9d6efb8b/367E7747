@@ -1,0 +1,28 @@
+{
+    "id": "367E7747",
+    "path": "C:/Users/Adela/Documents/RStudio/1_Teaching/ColonialHistory/colonies.Rmd",
+    "project_path": "colonies.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1727600151031.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "380,0",
+        "scrollLine": "0",
+        "last_setup_crc32": ""
+    },
+    "folds": "0|3|5|0|\n7|27|9|0|\n11|29|61|0|\n12|16|16|0|\n18|16|30|0|\n32|18|47|0|\n49|6|60|0|\n62|35|81|3|\n72|6|81|0|\n82|40|114|1|\n86|6|103|0|\n106|6|113|0|\n115|44|176|0|\n118|6|152|0|\n155|6|175|0|\n177|62|217|3|\n179|6|193|0|\n196|6|217|0|\n218|46|277|0|\n222|6|242|0|\n244|6|258|0|\n260|6|273|0|\n278|36|292|0|\n279|6|286|0|\n287|33|292|0|\n293|42|307|0|\n294|6|298|0|\n299|44|307|0|\n308|29|358|0|\n309|6|330|0|\n331|44|345|0|\n333|6|344|0|\n346|76|358|0|\n347|6|357|0|\n359|9|378|0|\n360|44|367|0|\n361|6|366|0|\n368|35|378|0|\n369|6|376|0|\n372|25|375|0|\n",
+    "lastKnownWriteTime": 1727777585,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1727777585456,
+    "read_only": false,
+    "read_only_alternatives": []
+}

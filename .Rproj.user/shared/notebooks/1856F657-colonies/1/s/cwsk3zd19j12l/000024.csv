@@ -1,0 +1,21 @@
+"0","# Expand this chart once it plots as it is rather detailed
+not_colonized_data %>% 
+  ggplot(aes(x = year, y = gdpPercap, group = Country, color = Country))+
+  geom_line()+
+  geom_text_repel(data = nc_last_year_data,      # Use the last year data for labeling
+                  aes(label = Country),       # Label each country at the last data point
+                  nudge_x = 15,                # Nudges labels slightly to the right for clarity
+                  direction = ""y"",            # Keep labels vertical
+                  hjust = 0) +                # Align the labels horizontally to the left
+   labs(title = ""Not colonized for long (or at all): Mean GDP Over Time"", 
+       x = ""Year"", 
+       y = ""Total GDP (in USD, log10)"") + 
+  theme_minimal() +
+  theme(legend.position = ""none"") 
+"
+"2","Warning:"
+"2"," [38;5;232mRemoved 1 row containing missing values or values outside the scale range (`geom_line()`).[39m
+"
+"2","Warning:"
+"2"," ggrepel: 7 unlabeled data points (too many overlaps). Consider increasing max.overlaps
+"

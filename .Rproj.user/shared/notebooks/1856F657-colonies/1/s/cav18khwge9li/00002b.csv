@@ -1,0 +1,10 @@
+"0","ggplot(colonized_data, aes(x = year, y = gdpPercap, group = Country, color = Country))+"
+"0","  geom_line()+"
+"0","   labs(title = ""Mean GDP Over Time by Country"", "
+"0","       x = ""Year"", "
+"0","       y = ""Mean GDP (in USD)"") + "
+"0","  theme_minimal() +                      # Minimal theme for a clean look"
+"0","  theme(legend.position = ""right"")     "
+"2","Warning:"
+"2"," [38;5;232mRemoved 1 row containing missing values or values outside the scale range (`geom_line()`).[39m
+"
