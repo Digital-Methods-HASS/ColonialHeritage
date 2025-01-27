@@ -40,6 +40,10 @@ colonized_data <- data.frame(
 
 ```
 
+Check other sources for Western and Asian imperialism for Africa and Asia and the Americas. Some examples are:
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Flw1qqtmaxl841.png%3Fauto%3Dwebp%26s%3D45a5eee700205f4d24f36c1f116a84a60233dae6
+https://accordingtophillips.weebly.com/uploads/8/1/8/3/81833274/imperialism-in-asia-1900_orig.jpg 
+https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/3841662/imper.gif?1474580603 
 ```{r uncolonized}
 # Create a dataframe for non-colonized countries
 not_colonized_data <- data.frame(
@@ -367,7 +371,7 @@ summary(model_interaction)
 * Interaction Term: The interaction term measures how the effect of each additional year of colonization differs depending on the colonial overlord.
 
 Significance codes tell you if the different could have arisen by chance or not? 0 = no chance, 1 = all chance
-R-squared amount tells you how much of the data is explained by this model. 1 = 100%. If below 1, other factors are in play. In our case, consider existing regimes (dictator ship, socialist episode,  starting development level etc.)
+R-squared amount tells you how much of the data is explained by this model. 1 = 100%. If below 1, other factors are in play. In our case, consider existing regimes (dictator ship, socialist episode,  starting development level    etc.)
 
 # Visualize the model results
 ```{r}
