@@ -448,10 +448,9 @@ pctchange <-function(x) {
 
 ## Possible expansions: 
 
-1. Model the effect of colonialism on life expectancy, or happiness/human development index
-2. Investigate closely two opposite cases (e.g. Liberia, Ethiopia) and delve into their colonial background. An empire for 300 years or 3 years under an aggressive inexperienced wanna-be-colonist?
-3. Recode the table on how long it is *since colonialism*. How much effect is there?
-4. Add data on 'Duration_socialism', or 'Duration_dictatorship' for the last 100 years and check their effect. (Check the Varieties of Democracy project if you need more input https://v-dem.net/ )
+1. Investigate closely two opposite cases (e.g. Liberia, Ethiopia) and delve into their colonial background. An empire for 300 years or 3 years under an aggressive inexperienced wanna-be-colonist?
+2. Recode the table on how long it is *since colonialism*. How much effect is there?
+3. Change the focus from Colonialism to political establishment. Add data on 'Duration_socialism', or 'Duration_dictatorship' for the last 100 years and check their effect. (Check the Varieties of Democracy project if you need more input https://v-dem.net/ )
 
 
 # Evaluation
